@@ -1,10 +1,28 @@
 # SwatticusDevelopment
 
-# Who am I?
-Well, I'm a developer who has been in many industries inside the coding realm and world. From cybersecurity, gaming, and software for the most part. Never once knowing what area I wanted to land in I have had specific focuses inside them all. Cybersecurity I worked through Hackerone, with multiple companies to support there SQLi and Text Injection problems. Gaming, has been a hobby since a child so I focus on Steam Modding through Unreal Engine 4 & 5. As well as I create Community and Streamer Servers for whoever I come across with a high level security throught he UE mods and server settings. Software has been a keen focus for me. Seeking out making a breach tool off the old LOIC program that was created so long ago. After 8 years and many testing on contracts and test networks I feel like Its stable enough to share. Developer with a software company. My focus on freelance, contracts, and asks are very limited. However wont stop me from helping, or continuing my projects.
+# Professional Journey
+As a newly minted FBI Cyber Operations Specialist and Special Agent, I've taken my passion for cybersecurity and development to serve at a federal level. With 12 years of coding experience starting from California roots, I've mastered 13 programming languages and continuously fuel my work with probably too much caffeine.
+Currently juggling my FBI duties while leading development on an exciting AAA indie game project, plus maintaining my role as a full stack developer. My journey through tech has been diverse and unconventional – exactly how I like it.
+Current Projects & Focus
+Several projects are keeping me busy in different sectors:
+For the indie game studio, we're in active development of something special that I can't fully disclose yet. On the federal side, my cyber operations work involves cutting-edge security implementations and threat analysis. As a full stack developer, I'm pushing boundaries in both frontend and backend technologies.
+Quarter 2-3 will see me launching a specialized Text To Speech project focused on accessibility for the disabled community. I'm also looking forward to diving into Nightingale modding once their Dev Kit releases.
 
-# Any new projects in the next few quarters?
-I have a few ideas of projects I will run past a few friends and fellow developers. However nothing inside the gaming realm sadly. I have mentioned I will be doing Nightingale Modding through their Dev Kit once released. However my primary focus is helping the disabled community only with a Text To Speech in the 2nd or 3rd quarter.
+1# Technical Background
+Started coding at age 10 in California, and haven't stopped since. My technical foundation includes:
 
-# Personal Information?
-I dont really care about this stuff however I will go through some small details. Im a designated Software Developer that has 12 languages and 1 runtime enviorment under my belt. With 11 years of coding since I was 11. Yes Im only 22! I have a passion for helping people with there security and fixing problems. I have a signifcant different type of hearing, I can hear below 2 db. I'm a heavy Audio Engineer and Production personell. Spotify is where I store my Development Music, as well as I listen to music all day besides when I sleep, I even dream code...
+- Deep expertise across 13 programming languages
+- Professional experience in cybersecurity, game development, and full stack solutions
+- Specialized background in audio engineering with unique hearing capabilities (sub-2db hearing range)
+- Strong focus on security implementation and vulnerability assessment
+
+While my work spans multiple industries, I maintain a special interest in creative coding projects that merge security with innovation. Whether it's developing secure gaming servers or implementing new cybersecurity solutions, I'm always pushing to expand my technical boundaries.
+# Unique Traits
+
+- Enhanced auditory perception (sub-2db hearing range)
+- Active involvement in audio engineering and production
+- Curated development music collection on Spotify
+- Known to occasionally dream in code (yes, really!)
+- Passionate about merging security with accessibility in tech
+
+My development philosophy centers on security-first design while maintaining accessibility and user experience. With constant coffee in hand, I'm always ready for the next coding challenge.
