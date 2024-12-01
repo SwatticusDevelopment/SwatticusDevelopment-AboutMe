@@ -8,7 +8,7 @@ Several projects are keeping me busy in different sectors:
 For the indie game studio, we're in active development of something special that I can't fully disclose yet. On the federal side, my cyber operations work involves cutting-edge security implementations and threat analysis. As a full stack developer, I'm pushing boundaries in both frontend and backend technologies.
 Quarter 2-3 will see me launching a specialized Text To Speech project focused on accessibility for the disabled community. I'm also looking forward to diving into Nightingale modding once their Dev Kit releases.
 
-1# Technical Background
+# Technical Background
 Started coding at age 10 in California, and haven't stopped since. My technical foundation includes:
 
 - Deep expertise across 13 programming languages
